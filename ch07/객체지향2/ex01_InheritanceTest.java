@@ -9,7 +9,7 @@ class Circle extends  MyPoint { //상속
     int r;
 }
 
-public class ex07_InheritanceTest {
+public class ex01_InheritanceTest {
     public static void main(String[] args) {
         Circle c = new Circle();
         c.x = 1;
